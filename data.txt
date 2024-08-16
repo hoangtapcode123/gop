@@ -5,6 +5,6 @@ hi
 
 
 ###
-\x1b[38;5;207m║ \x1b[38;5;51mTool gộp by : Hoàng + Khang                                 \x1b[38;5;46m║
-\x1b[38;5;207m║ \x1b[38;5;207mZalo : https://zalo.me/g/tzpncf362                          \x1b[38;5;46m║
+Tool gộp by : Hoàng + Khang                                 
+Zalo : https://zalo.me/g/tzpncf362                          
 ###
