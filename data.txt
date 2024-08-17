@@ -1,7 +1,10 @@
-hi
-
-
-
+***
+/* TOOL TRAO ĐỔI SUB     
+TDS TIKTOK + TIKTOK NOW|1|data.txt
+trao đổi sub tiktok|0|data.txt
+/*TTC
+tương tác chéo tiktok|1|data.txt
+***
 
 
 ###
