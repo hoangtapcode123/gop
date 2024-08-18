@@ -6,6 +6,7 @@ trao đổi sub tiktok|0|data.txt
 BUFF VIEW TIKTOK ZEFOY|1|zefoy.py
 COMMENT BÀI VIẾT FACEBOOK BẰNG PAGE|1|comment.py
 REG PRO5 FACEBOOK|1|regpro5.py
+SPAM SMS + CALL|1|sms.py
 ***
 
 
