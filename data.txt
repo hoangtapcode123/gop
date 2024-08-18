@@ -1,9 +1,10 @@
 ***
 /* TOOL TRAO ĐỔI SUB     
-TDS TIKTOK + TIKTOK NOW|1|data.txt
+TDS TIKTOK + TIKTOK NOW|0|data.txt
 trao đổi sub tiktok|0|data.txt
 /* TIỆN ÍCH              
 BUFF VIEW TIKTOK ZEFOY|1|zefoy.py
+COMMENT BÀI VIẾT FACEBOOK BẰNG PAGE|1|comment.py
 ***
 
 
