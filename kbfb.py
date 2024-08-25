@@ -147,9 +147,7 @@ class KhoiHuynh:
 ░  ░░ ░░ ░░ ░   ░      ░ ░ ░ ▒  ░ ░ ░ ▒    ░ ░   
 ░  ░  ░░  ░                ░ ░      ░ ░      ░  ░
        Huynh Minh Khoi x Vu Cong Huy Hoang\n\n'''
-        purple = Colors.StaticMIX((Col.purple, Col.blue))
-        dark = Col.dark_gray
-        print(Colorate.Diagonal(Colors.DynamicMIX((purple, dark)), Center.XCenter(banners)))
+        print(banners)
 
 
     def setting_kb(self):
