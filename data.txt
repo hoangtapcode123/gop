@@ -14,7 +14,7 @@ SPAM SMS + CALL|0|sms.py
 
 ###
 Tool gộp by : Hoàng + Khang                                 
-Zalo : https://zalo.me/g/tzpncf362                          
+Zalo : https://zalo.me/g/tuhkfd330                          
 ###
 
 
