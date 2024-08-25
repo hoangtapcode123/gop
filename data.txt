@@ -4,7 +4,6 @@ TDS TIKTOK + TIKTOK NOW|0|data.txt
 trao đổi sub tiktok|0|data.txt
 /* TIỆN ÍCH              
 BUFF VIEW TIKTOK ZEFOY|1|zefoy.py
-BUFF VIEW TIKTOK ZEFOY ĐA LUỒNG|1|zefoy1.py
 COMMENT BÀI VIẾT FACEBOOK BẰNG PAGE|1|comment.py
 REG PRO5 FACEBOOK|1|regpro5.py
 ADD FRIEND FB|1|kbfb.py
