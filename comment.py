@@ -77,7 +77,7 @@ else:
 huytool()
 while True:
     socmt = int(len(list_cmt))+1
-    cmt = input(f"{out}Nhập Comments {socmt}: {vang}")
+    cmt = input(f"Nhập Comments {socmt}: {vang}")
     if cmt == '':
         break
     list_cmt.append(cmt)
