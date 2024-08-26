@@ -13,7 +13,6 @@ red = "\033[0;31m"
 redb = "\033[1;31m"
 end = '\033[0m'
 put = f"{trang}[{do}+{trang}] => {luc}"
-out = f"{trang}[{do}-{trang}] => {luc}"
 list_cmt = []
 tokenl = []
 list_acc = []
