@@ -40,7 +40,7 @@ def tool_cmt(session, listcmt, tokenl, post, sl, time, acc, jsondatapage):
             tokenrun = tokenl[acccmt]
             name = jsondatapage['data'][acccmt]['name']
             id = jsondatapage['data'][acccmt]['id']
-            print(f"{out}TÊN : {vang}{name} {luc}: ID : {xduong}{id}")
+            print(f"TÊN : {vang}{name} {luc}: ID : {xduong}{id}")
             for i in range(int(sl)):
                 message = random.choice(listcmt)
                 data = {
