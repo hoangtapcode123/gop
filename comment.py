@@ -31,7 +31,8 @@ def sleep(delay):
         time.sleep(1)
 
 def huytool():
-    print(f"{luc}---------------------------------------------------------------------------")
+  global luc
+  print(f"{luc}---------------------------------------------------------------------------")
 
 def tool_cmt(session, listcmt, tokenl, post, sl, time, acc, jsondatapage):
     while True:
