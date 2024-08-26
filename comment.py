@@ -34,6 +34,18 @@ def huytool():
   print(f"{luc}---------------------------------------------------------------------------")
 
 def tool_cmt(session, listcmt, tokenl, post, sl, time, acc, jsondatapage):
+    xnhac = "\033[1;36m"
+    do = "\033[1;31m"
+    luc = "\033[1;32m"
+    vang = "\033[1;33m"
+    xduong = "\033[1;34m"
+    hong = "\033[1;35m"
+    trang = "\033[1;37m"
+    whiteb = "\033[1;37m"
+    red = "\033[0;31m"
+    redb = "\033[1;31m"
+    end = '\033[0m'
+    put = f"{trang}[{do}+{trang}] => {luc}"
     while True:
         for acccmt in acc:
             tokenrun = tokenl[acccmt]
